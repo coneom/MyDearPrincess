@@ -14,9 +14,9 @@
   "author": "can.yang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yacan8/valentine/issues"
+    "url": "https://github.com/coneom/MyDearPrincess/issues"
   },
-  "homepage": "https://github.com/yacan8/valentine#readme",
+  "homepage": "https://github.com/coneom/MyDearPrincess#readme",
   "dependencies": {
     "prismjs": "^1.17.1",
     "react": "16.0",
